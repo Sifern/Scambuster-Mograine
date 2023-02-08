@@ -1,6 +1,5 @@
-# Scambuster-ExampleProvider
-An example provider addon that extends Scambuster with data.
-- https://github.com/hypernormalisation/Scambuster
+Welcome to the Mograine Scambuster database repo! Scambuster is an add-on written by Swedge from Golemagg, list is kept up to date by the Mograine discord.
 
-For full information on how to customise it, check the wiki pages at:
-- https://github.com/hypernormalisation/Scambuster/wiki/Provider-info
+Mograine discord:
+https://discord.gg/mograine
+
