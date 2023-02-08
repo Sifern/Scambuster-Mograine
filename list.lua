@@ -9,7 +9,7 @@ local _, t = ...
 
 t.case_table = {
     [0] = {
-        name = "Arthas",
+        name = "Kyedae",
         category = "raid",
         description = "Got a bit too upset at demons and had a strop.",
         url = "discord url to proof",
