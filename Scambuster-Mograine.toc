@@ -1,6 +1,6 @@
 ## Interface: 30400
-## Title: Scambuster-ExampleProvider
-## Notes: Example Provider addon for Scambuster
+## Title: Scambuster-Mograine
+## Notes: Extension for Scambuster packaging Golemagg realm data
 ## Author: Swedge
 ## Version: 1.0.0
 ## DefaultState: enabled
